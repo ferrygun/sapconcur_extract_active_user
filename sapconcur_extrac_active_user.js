@@ -1,6 +1,5 @@
 const request = require('request');
 const async = require('async');
-const moment = require('moment');
 const util = require('util')
 const fs = require('fs');
 
